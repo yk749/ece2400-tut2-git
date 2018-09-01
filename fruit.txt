@@ -6,4 +6,6 @@ lemon
 apple
 plum
 date
+<<<<<<< 4e1125b1457849980c961dc6fc9e73bdcdd5d991
 kiwi
+pineaplle
